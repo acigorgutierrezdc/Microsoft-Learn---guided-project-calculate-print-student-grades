@@ -1,0 +1,14 @@
+D:\GitHub-Repository\Microsoft-Learn---guided-project-calculate-print-student-grades\MS-Training-Student-Grades\bin\Debug\net8.0\MS-Training-Student-Grades.exe
+D:\GitHub-Repository\Microsoft-Learn---guided-project-calculate-print-student-grades\MS-Training-Student-Grades\bin\Debug\net8.0\MS-Training-Student-Grades.deps.json
+D:\GitHub-Repository\Microsoft-Learn---guided-project-calculate-print-student-grades\MS-Training-Student-Grades\bin\Debug\net8.0\MS-Training-Student-Grades.runtimeconfig.json
+D:\GitHub-Repository\Microsoft-Learn---guided-project-calculate-print-student-grades\MS-Training-Student-Grades\bin\Debug\net8.0\MS-Training-Student-Grades.dll
+D:\GitHub-Repository\Microsoft-Learn---guided-project-calculate-print-student-grades\MS-Training-Student-Grades\bin\Debug\net8.0\MS-Training-Student-Grades.pdb
+D:\GitHub-Repository\Microsoft-Learn---guided-project-calculate-print-student-grades\MS-Training-Student-Grades\obj\Debug\net8.0\MS-Training-Student-Grades.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub-Repository\Microsoft-Learn---guided-project-calculate-print-student-grades\MS-Training-Student-Grades\obj\Debug\net8.0\MS-Training-Student-Grades.AssemblyInfoInputs.cache
+D:\GitHub-Repository\Microsoft-Learn---guided-project-calculate-print-student-grades\MS-Training-Student-Grades\obj\Debug\net8.0\MS-Training-Student-Grades.AssemblyInfo.cs
+D:\GitHub-Repository\Microsoft-Learn---guided-project-calculate-print-student-grades\MS-Training-Student-Grades\obj\Debug\net8.0\MS-Training-Student-Grades.csproj.CoreCompileInputs.cache
+D:\GitHub-Repository\Microsoft-Learn---guided-project-calculate-print-student-grades\MS-Training-Student-Grades\obj\Debug\net8.0\MS-Training-Student-Grades.dll
+D:\GitHub-Repository\Microsoft-Learn---guided-project-calculate-print-student-grades\MS-Training-Student-Grades\obj\Debug\net8.0\refint\MS-Training-Student-Grades.dll
+D:\GitHub-Repository\Microsoft-Learn---guided-project-calculate-print-student-grades\MS-Training-Student-Grades\obj\Debug\net8.0\MS-Training-Student-Grades.pdb
+D:\GitHub-Repository\Microsoft-Learn---guided-project-calculate-print-student-grades\MS-Training-Student-Grades\obj\Debug\net8.0\MS-Training-Student-Grades.genruntimeconfig.cache
+D:\GitHub-Repository\Microsoft-Learn---guided-project-calculate-print-student-grades\MS-Training-Student-Grades\obj\Debug\net8.0\ref\MS-Training-Student-Grades.dll
